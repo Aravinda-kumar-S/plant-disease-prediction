@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "name": "Plant Disease Prediction",
+  "description": "",
+  "prompt": ""
+}
